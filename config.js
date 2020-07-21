@@ -56,7 +56,7 @@ var config = {
         {
             id: '4',
             title: 'Kevin',
-            image: 'Kevin.jpg',
+            image: 'Kevin.JPG',
             description: 'It is really a good memory and amazing journey to work with you for the past 22 months. We will miss you and look forward to reunion with you in the future.',
             location: {
                 center: [121.45474, 31.23093],
@@ -98,7 +98,7 @@ var config = {
         {
             id: '7',
             title: 'Jing',
-            image: 'Jing.jpeg',
+            image: 'jing.jpeg',
             description: 'Although it’s hard to believe you are going to leave, we have to say goodbye to you temporarily. It is a memorable time to work and hang out with you for the past 2 years, especially Q1-Q2, 2019 in Shanghai. May you be happy in the next career life and everything goes well! Hope to see you in person next time and have a cup of boba again.',
             location: {
                 center: [121.21389, 31.09807],
@@ -168,7 +168,7 @@ var config = {
         {
             id: '12',
             title: 'Ben',
-            image: 'Ben.jpg',
+            image: 'Ben.JPG',
             description: 'Chris, you have been a tremendous asset to Mapbox and especially our efforts in China. You have been a driven leader focused on fixing the hardest problems and a great teammate. It’s sad to see you leave us but I am confident that you are going to be a success no matter your destination. Please reflect positively on your efforts at Mapbox, as you have had a great impact on our team, our customers and the business. All the best!',
             location: {
                 center: [116.44111, 39.92955],
@@ -196,7 +196,7 @@ var config = {
         {
             id: '14',
             title: 'More moments',
-            image: '1.jpg',
+            image: '1.JPG',
             description: '2019 Q1 at Jinshan(Macro‘s house)',
             location: {
                 center: [105.30064, 34.78799],
