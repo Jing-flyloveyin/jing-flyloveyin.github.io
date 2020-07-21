@@ -7,7 +7,7 @@ var config = {
     title: 'Farewell Chris',
     subtitle: 'It is lucky to have you. 感谢有你！',
     byline: 'By Mapbox APAC Team',
-    footer: 'Source: source citations, etc.',
+    footer: 'Mapbox China 2020.7',
     chapters: [
         {
             id: '1',
